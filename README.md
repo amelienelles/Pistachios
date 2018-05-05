@@ -46,7 +46,7 @@ The basic mechanism for pull requests is:
 
 + join GitHub
 + fork the repository
-+ clone the forded repository to your local drive
++ clone the forked repository to your local drive
 + make the change
 + commit the change to your Github fork
 + let GitHub figure out the difference and let it generate a _pull request_ to the repository owner
