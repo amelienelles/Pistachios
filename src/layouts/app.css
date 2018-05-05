@@ -1,0 +1,61 @@
+@font-face {
+  font-family: 'DS Arabic';
+  src: url('/fonts/arab3end.woff2') format('woff2'), url('/fonts/arab3end.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Arab Dances';
+  src: url('/fonts/arabdances.woff2') format('woff2'), url('/fonts/arabdances.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+a {
+  color: #772C61;
+}
+
+a:hover {
+  color: #333333;
+}
+
+svg {
+  height: 1em;
+  vertical-align: -0.125em;
+}
+
+:not(pre)>code[class*="language-"] {
+  white-space: nowrap;
+}
+
+.blur-up .lazyload,
+.blur-up .lazyloaded {
+  filter: blur(5px);
+  transition: filter 400ms;
+}
+
+.lazyloaded {
+  filter: blur(0);
+}
+
+picture {
+  display: flex;
+  flex-direction: column;
+  display: content;
+  background: #484848;
+  width: 100%;
+}
+
+.mb0 {
+  margin-bottom: 0;
+}
+
+.mt0 {
+  margin-top: 0;
+}
+
+.my0 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
