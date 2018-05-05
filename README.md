@@ -25,7 +25,7 @@ git clone https://github.com/DrUlrichAnders/Pistachios.git
 
 Change directory:
 ```sh
-cd DNE
+cd Pistachios
 ```
 
 Install packages:
