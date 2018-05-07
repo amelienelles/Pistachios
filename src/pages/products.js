@@ -29,7 +29,7 @@ const ProductsPage = () => (
     </Section>
 
     <Section>
-      <h2 id="products">Our Products</h2>
+      <h2 id="products">Our Pistachios</h2>
       <DCPicture img={img["05"]} />
 
       <p>
@@ -40,21 +40,35 @@ const ProductsPage = () => (
       <Flex flexWrap="wrap">
         <Box width={[1, 1 / 2, 1 / 4]} pr={[3]}>
           <DCPicture img={img["00"]} />
-          <h3>Khaligari</h3>
+          <h3>Fandoghi</h3>
+          <h4>Sizes: 28/30, 30/32, 32/34</h4>
         </Box>
         <Box width={[1, 1 / 2, 1 / 4]} pl={[1]} pr={[2]}>
           <DCPicture img={img["00"]} />
-          <h3>Khaligari</h3>
+          <h3>Kalleh Ghouchi</h3>
+          <h4>Sizes: 20/22, 22/24, 24/26</h4>
         </Box>
         <Box width={[1, 1 / 2, 1 / 4]} pl={[2]} pr={[1]}>
           <DCPicture img={img["00"]} />
-          <h3>Khaligari</h3>
+          <h3>Akbari</h3>
+          <h4>Sizes: 20/22, 22/24, 24/26</h4>
         </Box>
         <Box width={[1, 1 / 2, 1 / 4]} pl={[3]}>
           <DCPicture img={img["00"]} />
-          <h3>Khaligari</h3>
+          <h3>Ahmad Agaei</h3>
+          <h4>Sizes: 22/24, 24/26, 26/28</h4>
         </Box>
       </Flex>
+    </Section>
+
+    <Section>
+      <h2 id="products">Pre-processed Pistachios</h2>
+      <DCPicture img={img["00"]} />
+
+      <p>
+        We can also offer a variety of pre-processed, flavoured and packaged products. This comprises of blanched, peeled, color sorted or salted pistachios. Please contacts us for details.
+      </p>
+
     </Section>
 
     <Section>
