@@ -1,11 +1,11 @@
-import React from 'react'
+import React from "react"
 import {
   Container,
   Img,
   Section,
-  StyledFlex as Flex,
-} from '../components-styled'
-import { Box } from 'grid-styled'
+  StyledFlex as Flex
+} from "../components-styled"
+import { Box } from "grid-styled"
 
 const ImprintPage = () => (
   <Container>
@@ -20,11 +20,23 @@ const ImprintPage = () => (
       </p>
       <h3>Credits</h3>
       <p>
-        Fotos from <a href="https://unsplash.com/">Unsplash</a>. Thanks to:
+        Fotos from{" "}
+        <a href="https://unsplash.com/" target="_blank">
+          Unsplash
+        </a>{" "}
+        and{" "}
+        <a href="https://pixabay.com/" target="_blank">
+          Pixabay
+        </a>. Thanks to:
       </p>
       <ul>
-        <li></li>
-
+        <li>Joanna Kosinska </li>
+        <li>Heinrich A. </li>
+        <li>David Krueger</li>
+        <li>简体中文</li>
+        <li>Silvia & Frank</li>
+        <li>Italiano</li>
+        <li>Alexandra / München</li>
       </ul>
 
       <p />
