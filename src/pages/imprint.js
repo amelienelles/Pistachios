@@ -30,13 +30,13 @@ const ImprintPage = () => (
         </a>. Thanks to:
       </p>
       <ul>
-        <li>Joanna Kosinska </li>
-        <li>Heinrich A. </li>
+        <li>Alexandra</li>
         <li>David Krueger</li>
-        <li>简体中文</li>
-        <li>Silvia & Frank</li>
+        <li>Heinrich A. </li>
         <li>Italiano</li>
-        <li>Alexandra / München</li>
+        <li>Joanna Kosinska </li>
+        <li>Silvia & Frank</li>
+        <li>简体中文</li>
       </ul>
 
       <p />
