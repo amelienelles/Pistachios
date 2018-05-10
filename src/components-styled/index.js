@@ -65,7 +65,6 @@ export const Img = styled.img`
   width: 100%;
 `
 
-
 export const ImgPerson = styled.img`
   border-radius: 50%;
   border: solid 3px #eee;
@@ -81,7 +80,12 @@ export const LogoBrand = styled.span`
   color: #fff;
   font-family: "DS Arabic";
   font-size: 2.3888889rem;
-  font-size: 4.3888889rem;
+  @media (min-width: 32em) {
+    font-size: 3.3888889rem;
+  }
+  @media (min-width: 48em) {
+    font-size: 4.3888889rem;
+  }
   line-height: 3rem;
   text-decoration: none;
 `
@@ -89,7 +93,6 @@ export const LogoBrand = styled.span`
 export const LogoText = styled.span`
   color: #fff;
   font-size: 1.7777778rem;
-  font-family: "Princess Sofia"
   line-height: 3rem;
   line-height: 3rem;
   text-decoration: none;
@@ -97,6 +100,9 @@ export const LogoText = styled.span`
 
 export const Nav = styled.nav`
   align-self: baseline;
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
 `
 
 export const NavItem = styled.span`

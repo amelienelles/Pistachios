@@ -9,7 +9,6 @@ import DCPicture from "../components/DCPicture.js"
 const ProductionPage = () => (
   <Container>
     <DCPicture img={img["02"]} />
-    <DCPicture img={img["02"]} />
     <Section>
       <h2 id="production">Our Production</h2>
       <p>Have a look at our production.</p>
