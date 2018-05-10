@@ -1,5 +1,5 @@
 ---
-title: "The Pink Skin"
+title: "The pink skin"
 author: "Persiska Pistachios"
 date: "2018-05-05"
 ---
