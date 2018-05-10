@@ -8,22 +8,21 @@ import DCPicture from "../components/DCPicture.js"
 export default ({ data }) => {
   return (
     <Container>
-
-      <DCPicture img={img["00"]} />
-    <Section>
-      <h2>Blogs</h2>
-      {data.allMarkdownRemark.edges.map(({ node }) => (
-        <div key={node.id}>
-          <Link to={node.fields.slug}>
-            <h3>{node.frontmatter.title}</h3>
-          </Link>
-          <p>
-            {node.frontmatter.author} — {node.frontmatter.date}
-          </p>
-        </div>
-      ))}
-    </Section>
-      </Container>
+      <DCPicture img={img["10"]} />
+      <Section>
+        <h2>Blogs</h2>
+        {data.allMarkdownRemark.edges.map(({ node }) => (
+          <div key={node.id}>
+            <Link to={node.fields.slug}>
+              <h3>{node.frontmatter.title}</h3>
+            </Link>
+            <p>
+              {node.frontmatter.author} — {node.frontmatter.date}
+            </p>
+          </div>
+        ))}
+      </Section>
+    </Container>
   )
 }
 
