@@ -8,7 +8,7 @@ import DCPicture from "../components/DCPicture.js"
 
 const ContactPage = () => (
   <Container>
-    <DCPicture img={img["00"]} />
+    <DCPicture img={img["09"]} />
     <Section>
       <h2>Contact</h2>
       <Flex flexWrap="wrap" alignItems="top" mb={"6rem"}>

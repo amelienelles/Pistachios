@@ -19,10 +19,11 @@ const ProductsPage = () => (
       <h1 id="pistachios" className="mb0">
         Persiska Pistachios
       </h1>
-      <h3 className="mt0">Pistachios with taste and quality.</h3>
+      <h3 className="mt0">Iranian pistachios with great taste and quality.</h3>
       <p>
-        Welcome to Persiska Pistachios. We love pistachios so much, you can say
-        we breath them. Have a look at our products.
+        Welcome to Persiska Pistachios &mdash; pistachios from Iran. We love
+        pistachios so much, you can say we breath them. Have a look at our
+        products.
       </p>
     </Section>
 
