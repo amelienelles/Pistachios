@@ -21,7 +21,7 @@ const DCHeader = () => (
       </Link>
       <Nav>
         <Link to="/products">
-          <NavItem>Our Pistachios</NavItem>
+          <NavItem className="ml0">Our Pistachios</NavItem>
         </Link>{" "}
         <Link to="/about">
           <NavItem>About us</NavItem>

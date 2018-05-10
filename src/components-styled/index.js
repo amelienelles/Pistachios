@@ -47,6 +47,7 @@ export const HeaderSection = styled.section`
   /* font-size: 1rem; */
   display: flex;
   flex-wrap: wrap;
+  align-items: baseline;
   justify-content: space-between;
   margin: 0 auto;
   max-width: 1200px;
@@ -99,10 +100,10 @@ export const LogoText = styled.span`
 `
 
 export const Nav = styled.nav`
-  align-self: baseline;
   display: flex;
   justify-content: flex-end;
   flex-wrap: wrap;
+  flex-grow: 1;
 `
 
 export const NavItem = styled.span`
