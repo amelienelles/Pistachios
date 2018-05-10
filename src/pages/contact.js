@@ -17,7 +17,12 @@ const ContactPage = () => (
         </Box>
         <Box width={[1, 1 / 2]} pl={[4]}>
           <h3 className="mt0">Sales</h3>
-          <p>For all sales inquiries please contact:</p>
+          <p>
+            Our sales department has successfully worked with several Iranian
+            and international companies. We are happy to provide you with
+            additional information and engage in fruitful partnerships. For more
+            information, contact us under 12-3456-78910.
+          </p>
         </Box>
       </Flex>
       <Flex flexWrap="wrap" alignItems="top" mb={"6rem"}>
@@ -35,7 +40,13 @@ const ContactPage = () => (
         </Box>
         <Box width={[1, 1 / 2]} pl={[4]}>
           <h3 className="mt0">CEO</h3>
-          <p>You are also welcome to contact our CEO in according matters:</p>
+          <p>
+            Mr. ??? is the CEO of »Persiska Pistachios« and has many years of
+            experience in the field of growing pistachios. He is personally
+            committed to provide the best pistachios to his customers and is
+            happy to provide you with further necessary information. For special
+            business inquiries, contact him on 444-444-444.
+          </p>
         </Box>
       </Flex>
     </Section>

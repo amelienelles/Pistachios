@@ -16,7 +16,14 @@ const ProductionPage = () => (
       <DCPicture img={img["00"]} />
       <p>We are located in ??? See where we are located.</p>
       <DCPicture img={img["00"]} />
-      <p>When we ship our pistachios we transport them to the ??? harbour.</p>
+      <p>
+        Due to our current location in the Kerman province of southern Iran our
+        nearest port is Bandar Abbas. However, we are happy to engage in
+        individual arrangements upon request. As for the terms of delivery, we
+        generally offer FOB prices, which can also be customized depending on
+        your needs. For further information, please contact our department of
+        international affairs.
+      </p>
       <h3 id="harvesting">Harvesting</h3>
       <p>
         When ripe, pistachios become loose and fall of their trees when given a
@@ -44,6 +51,16 @@ const ProductionPage = () => (
         </Box>
       </Flex>
 
+      <h3 id="qualitycontrol">Quality control</h3>
+      <p>
+        Besides using only the most accurate modern machinery, we are also
+        checking the quality of our pistachios manually. This way we can make
+        sure that each pistachio adheres to Iranian and International quality
+        standards. The success of our quality control can be seen in the
+        numerous certificates and awards we received for our commitment. Do you
+        want to know more about our quality control? Our Sales Department is
+        happy to provide you with further information.
+      </p>
       <h3 id="processing">Further processing</h3>
       <p>
         Once harvested, pistachios need to undergo a series of treatments before

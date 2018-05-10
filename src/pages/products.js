@@ -145,9 +145,11 @@ const ProductsPage = () => (
       <DCPicture img={img["00"]} />
 
       <p>
-        We can also offer a variety of pre-processed, flavoured and packaged
-        products. This comprises of blanched, peeled, color sorted or salted
-        pistachios. Please <Link to="/contact">contact us</Link> for details.
+        Besides offering the above mentioned pistachios types, we can also offer
+        marginally processed pistachios. Upon request, we can blanch, peel,
+        sort, and salt our unprocessed pistachios for your needs. For further
+        information, please <Link to="/contact">contact</Link> contact our
+        department of international affairs.
       </p>
     </Section>
 
