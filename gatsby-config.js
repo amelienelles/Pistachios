@@ -1,8 +1,10 @@
+var moment = require("moment")
+
 module.exports = {
   siteMetadata: {
     title: "Pistachios",
     version: "0.2.0",
-    date: "May 10, 2018",
+    date: moment().format("YYYY-MM-DD"),
     siteUrl: ""
   },
   plugins: [
