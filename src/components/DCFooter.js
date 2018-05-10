@@ -11,8 +11,7 @@ const DCFooter = props => (
       <p>&copy; Cologne Business School</p>
       <div>
         <Link to="/imprint">Imprint</Link>
-        <br /> Version {props.version}
-        <br /> Revision {props.date}
+        <br /> Version: {props.date}
         <p>
           Browser: {props.browser.name} {props.browser.version}
         </p>
