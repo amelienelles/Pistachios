@@ -35,8 +35,8 @@ h4,
 .h4 {
   font-size: 1rem;
   line-height: 1.5rem;
-  margin-top: 0.5rem;
-  margin-bottom: 0rem;
+  margin-top: 0rem;
+  margin-bottom: 0.5rem;
 }
 
 h5,
@@ -76,8 +76,8 @@ h5,
   .h4 {
     font-size: 1rem;
     line-height: 1.5rem;
-    margin-top: 0.5rem;
-    margin-bottom: 0rem;
+    margin-top: 0rem;
+    margin-bottom: 0.5rem;
   }
 
   h5,
@@ -118,8 +118,8 @@ h5,
   .h4 {
     font-size: 1rem;
     line-height: 1.5rem;
-    margin-top: 0 0.5rem;
-    margin-bottom: 0rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
   }
 
   h5,
