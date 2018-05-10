@@ -60,7 +60,7 @@ const ProductsPage = () => (
     </Section>
 
     <Section>
-      <h2 id="products">Our Pistachios</h2>
+      <h2 id="types">Our Pistachios</h2>
       <DCPicture img={img["05"]} />
 
       <p>
@@ -141,7 +141,7 @@ const ProductsPage = () => (
     </Section>
 
     <Section>
-      <h2 id="products">Pre-processed Pistachios</h2>
+      <h2 id="preprocessed">Pre-processed Pistachios</h2>
       <DCPicture img={img["00"]} />
 
       <p>
