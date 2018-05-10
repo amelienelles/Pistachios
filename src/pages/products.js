@@ -147,7 +147,7 @@ const ProductsPage = () => (
       <p>
         We can also offer a variety of pre-processed, flavoured and packaged
         products. This comprises of blanched, peeled, color sorted or salted
-        pistachios. Please contacts us for details.
+        pistachios. Please <Link to="/contact">contact us</Link> for details.
       </p>
     </Section>
 
@@ -167,7 +167,7 @@ const ProductsPage = () => (
       <DCPicture img={img["03"]} />
       <p>
         We ship to the whole world. We offer FOB, CFR and CIF, no problem.
-        Please talk to us.
+        Please <Link to="/contact">talk to us</Link>.
       </p>
     </Section>
   </Container>
