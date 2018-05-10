@@ -1,5 +1,9 @@
 import React from "react"
-import { Footer, FooterSection, StyledLink as Link } from "../components-styled"
+import {
+  Footer,
+  FooterSection,
+  LinkFooterStyled as Link
+} from "../components-styled"
 
 const DCFooter = props => (
   <Footer>

@@ -18,13 +18,19 @@ const AboutPage = () => (
 
       <h3>Many years experience</h3>
 
-      <p>We were founded in 1988 (???) by ???</p>
+      <p>
+        Founded in 19xx, we have declared it our mission to provide the world
+        with the best Iranian pistachios. We have grown inside Iran and beyond
+        its borders as a supplier of high-quality pistachios, currently
+        producing over 2000 tons of pistachios each year. Through successful
+        expansion we have established a network of suppliers and partners that
+        work together to satisfy your needs. Together we strive for quality and
+        are committed to add value for our customers.
+      </p>
 
       <p>
-        Our mission was to produce pistachios of the highest quality. Since then
-        we have continuously grown. At the moment we are producing 2000 tons of
-        pistachios per year. If you want to find our more about our production
-        have a look at production.
+        If you want to find our more about our production have a look at
+        production.
       </p>
 
       <h3>Long term relationships</h3>
@@ -36,9 +42,7 @@ const AboutPage = () => (
 
       <h3>Our group</h3>
       <DCPicture img={img["00"]} />
-      <p>
-        Persiska Pistachios is part of a big group:{" "}
-      </p>
+      <p>Persiska Pistachios is part of a big group: </p>
       <p>
         So we are strong in terms of financing, we have reliable partners,
         access to machines and strong management partnerships.

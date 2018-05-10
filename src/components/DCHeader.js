@@ -7,7 +7,7 @@ import {
   LogoText,
   Nav,
   NavItem,
-  StyledLink as Link
+  LinkStyled as Link
 } from "../components-styled"
 
 /**

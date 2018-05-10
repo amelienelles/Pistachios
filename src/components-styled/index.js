@@ -15,8 +15,8 @@ export const Container = styled.div`
 `
 
 export const Footer = styled.footer`
-  background: #8f8978;
-  height: 600px;
+  background: #94348a;
+  height: 40 0px;
   padding: 27px 0;
 `
 
@@ -130,8 +130,13 @@ export const Source = styled.source`
   width: 100%;
 `
 
-export const StyledLink = styled(Link)`
+export const LinkStyled = styled(Link)`
   color: #fff;
+  align-self: baseline;
+`
+
+export const LinkFooterStyled = styled(Link)`
+  color: inherit;
   align-self: baseline;
 `
 

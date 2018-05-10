@@ -148,8 +148,8 @@ const ProductsPage = () => (
         Besides offering the above mentioned pistachios types, we can also offer
         marginally processed pistachios. Upon request, we can blanch, peel,
         sort, and salt our unprocessed pistachios for your needs. For further
-        information, please <Link to="/contact">contact</Link> contact our
-        department of international affairs.
+        information, please <Link to="/contact">contact</Link> our department of
+        international affairs.
       </p>
     </Section>
 
