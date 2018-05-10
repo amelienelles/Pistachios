@@ -29,16 +29,18 @@ const ProductionPage = () => (
       </p>
       <p>Accompany us when we are harvesting.</p>
       <Flex flexWrap="wrap">
-        <Box width={[1, 1 / 2]} pr={[3]}>
+        <Box width={[1, 1 / 2]} pr={[0, 2]}>
           <DCPicture img={img["00"]} />
         </Box>
-        <Box width={[1, 1 / 2]} pl={[1]} pr={[2]}>
+        <Box width={[1, 1 / 2]} pl={[0, 2]}>
           <DCPicture img={img["00"]} />
         </Box>
-        <Box width={[1, 1 / 2]} pl={[2]} pr={[1]}>
+      </Flex>
+      <Flex flexWrap="wrap">
+        <Box width={[1, 1 / 2]} pr={[0, 2]}>
           <DCPicture img={img["00"]} />
         </Box>
-        <Box width={[1, 1 / 2]} pl={[3]}>
+        <Box width={[1, 1 / 2]} pl={[0, 2]}>
           <DCPicture img={img["00"]} />
         </Box>
       </Flex>
@@ -61,16 +63,18 @@ const ProductionPage = () => (
       <h3 id="storing">Storing</h3>
       <p>Have a look at our storing facilities.</p>
       <Flex flexWrap="wrap">
-        <Box width={[1, 1 / 2]} pr={[3]}>
+        <Box width={[1, 1 / 2]} pr={[0, 2]}>
           <DCPicture img={img["00"]} />
         </Box>
-        <Box width={[1, 1 / 2]} pl={[1]} pr={[2]}>
+        <Box width={[1, 1 / 2]} pl={[0, 2]}>
           <DCPicture img={img["00"]} />
         </Box>
-        <Box width={[1, 1 / 2]} pl={[2]} pr={[1]}>
+      </Flex>
+      <Flex flexWrap="wrap">
+        <Box width={[1, 1 / 2]} pr={[0, 2]}>
           <DCPicture img={img["00"]} />
         </Box>
-        <Box width={[1, 1 / 2]} pl={[3]}>
+        <Box width={[1, 1 / 2]} pl={[0, 2]}>
           <DCPicture img={img["00"]} />
         </Box>
       </Flex>
