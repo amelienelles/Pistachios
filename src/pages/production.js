@@ -77,6 +77,15 @@ const ProductionPage = () => (
         less than perfect.
       </p>
       <h3 id="storing">Storing</h3>
+      <p>
+        Our storing facilities in Iran are subject to constant review and
+        sampling procedures. The high standards we set for ourselves are
+        necessary to live up to our expectations: To be the best producer of
+        Iranian pistachios. Moisture and heat levels are measured with
+        state-of-the-art equipment and adjusted as soon as they deviate from
+        what we expect. Spontaneous combustion and increased aflatoxin values
+        are therefore prevented from the outset.
+      </p>
       <p>Have a look at our storing facilities.</p>
       <Flex flexWrap="wrap">
         <Box width={[1, 1 / 2]} pr={[0, 2]}>

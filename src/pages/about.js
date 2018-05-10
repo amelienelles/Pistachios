@@ -33,11 +33,12 @@ const AboutPage = () => (
         production.
       </p>
 
-      <h3>Long term relationships</h3>
+      <h3>Long term partnerships</h3>
       <DCPicture img={img["00"]} />
       <p>
-        We want to build long term relationships. We understand that you need
-        reliable delivery and defined quality. Why don't you come and visit us?
+        Since the beginning of our mission we have always engaged in fair and
+        equal partnerships. Our partners have grown together with us, and we are
+        proud to present to you the companies we work with in close cooperation.
       </p>
 
       <h3>Our group</h3>
@@ -50,6 +51,13 @@ const AboutPage = () => (
 
       <h3>Meet our team</h3>
       <DCPicture img={img["00"]} />
+      <p>
+        The team behind Persiska Pistachios consists of more than just business
+        partners. Throughout our endeavor, we have strengthened our friendship
+        and are now one big family. From administration to harvesting, from
+        sales to purchasing: We personally engage in each activity of our
+        value-chain and work together to maintain a maximum level of quality.
+      </p>
       <p>
         These are the people we rely on. They all share our overall vision
         &mdash; to just produce the best pistachios possible.
