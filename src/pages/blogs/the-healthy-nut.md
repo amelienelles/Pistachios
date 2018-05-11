@@ -1,5 +1,5 @@
 ---
-title: "The healhy nut"
+title: "The healthy nut"
 author: "Persiska Pistachios"
 date: "2018-05-06"
 ---
