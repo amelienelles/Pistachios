@@ -5,7 +5,7 @@ module.exports = {
     title: "Pistachios",
     version: "0.2.0",
     date: moment().format("YYYY-MM-DD"),
-    siteUrl: ""
+    siteUrl: "pistachios.netlify.com"
   },
   plugins: [
     "gatsby-image",

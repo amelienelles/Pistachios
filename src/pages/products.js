@@ -69,7 +69,7 @@ const ProductsPage = () => (
         lend them a unique and unforgettable mark that their buyers love it for.
         Not only are all Iranian pistachios tasty and healthy, but there are
         also four sub-categories that add their own individual flavor. They also
-        come in several variations ( such as opened, closed, roasted, salted,
+        come in several variations (such as opened, closed, roasted, salted,
         with added lime, or many other combinations), and with numerous new ones
         coming every day. No matter which one you choose, we are committed to
         harvest the best pistachios that Iranian soil can offer. In the
@@ -159,7 +159,7 @@ const ProductsPage = () => (
       <p>
         We are striving to reach the highest quality for our pistachios. For
         this we are trying to do everything. You want certificates? We adhere to
-        both European and International standards.
+        both European and international standards.
       </p>
       <p />
     </Section>
