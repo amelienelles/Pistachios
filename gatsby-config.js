@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: "Pistachios",
     version: "0.2.0",
-    date: moment().format("YYYY-MM-DD"),
+    date: moment().format("MMM DD, YYYY"),
     siteUrl: "pistachios.netlify.com"
   },
   plugins: [
